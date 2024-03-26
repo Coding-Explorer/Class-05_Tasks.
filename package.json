@@ -1,8 +1,8 @@
 {
-  "name": "bb",
+  "name": "cc",
   "version": "1.0.0",
   "description": "",
-  "main": "sbb.js",
+  "main": "scc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
