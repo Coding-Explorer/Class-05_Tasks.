@@ -1,8 +1,8 @@
 {
-  "name": "jj",
+  "name": "kk",
   "version": "1.0.0",
   "description": "",
-  "main": "sjj.js",
+  "main": "skk.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
